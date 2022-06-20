@@ -23,5 +23,20 @@ server.post("/sign-up", (req, res)=>{
     res.status(200).send("OK")
 })
 
+server.post("/tweets", (req, res)=>{
+    const {username, tweet} = req.body;
+    if(!username||!tweet){
+        res.status(400).send("Name or tweet required!");
+        return;
+    }
+    users.tweets.push({
+        username,
+        tweet
+    })
+
+    fs.writeFileSync("usersDatabase.json", JSON.stringify(users, null, 2));
+    res.status(200).send("OK")
+})
+
 server.listen(5000, ()=>{
     console.log("Servidor Acessado")});
