@@ -29,13 +29,22 @@ server.post("/tweets", (req, res)=>{
         res.status(400).send("Name or tweet required!");
         return;
     }
-    users.tweets.push({
+    const avatar = users.user.find((user)=> user.username === username).avatar
+    users.tweets.unshift({
         username,
+        avatar,
         tweet
     })
 
     fs.writeFileSync("usersDatabase.json", JSON.stringify(users, null, 2));
     res.status(200).send("OK")
+})
+
+server.get("/tweets", (req, res)=>{
+    const tweets = users.tweets.filter((tweet, index)=> index < 10)
+    
+    console.log(tweets)
+    res.status(200).send(tweets)
 })
 
 server.listen(5000, ()=>{

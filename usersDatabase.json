@@ -2,21 +2,73 @@
   "user": [
     {
       "username": "Audrey",
-      "avatar": "https://thumbs.dreamstime.com/b/fundo-do-cora%C3%A7%C3%A3o-do-amor-do-arco-%C3%ADris-60045149.jpg"
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000"
     },
     {
       "username": "Audrey",
-      "avatar": "https://thumbs.dreamstime.com/b/fundo-do-cora%C3%A7%C3%A3o-do-amor-do-arco-%C3%ADris-60045149.jpg"
-    },
-    {
-      "username": "Audrey",
-      "avatar": "https://thumbs.dreamstime.com/b/fundo-do-cora%C3%A7%C3%A3o-do-amor-do-arco-%C3%ADris-60045149.jpg"
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000"
     }
   ],
   "tweets": [
     {
       "username": "Audrey",
-      "tweet": "POSTEI UM NOVO TWEET VENHA CONFERIR"
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "funcionou carai! 12"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "hora da verdade 11"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "o ultimo com o primeiro (eu espero) 10"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "to sem ideia 9"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "só mais um pouco 8"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "quando chegar ao tweet 11 o 1 deve sumir 7"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "só faltam 5 tweets até a meta 6"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "esqueci de numerar o tweet 4 5"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "acabeid e perceber que fazendo unshift eu n preciso aplciar o reverse"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "agr é só preencher até os 10 tweets 3"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "primeiro tweet foi postado 2"
+    },
+    {
+      "username": "Audrey",
+      "avatar": "https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?w=2000",
+      "tweet": "And here we go again 1"
     }
   ]
 }
